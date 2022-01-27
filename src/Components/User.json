@@ -1,0 +1,27 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "fname": "Bilal",
+      "lname": "Rahil",
+      "uname": "bilal",
+      "email": "Bilal@gmail.com",
+      "password": "Bilal@123"
+    },
+    {
+      "fname": "bbbb",
+      "lname": "jjjjjj",
+      "uname": "kkkkk",
+      "email": "kkkkkk",
+      "password": "kkkkkk",
+      "errors": {
+        "fname": "",
+        "lname": "",
+        "uname": "",
+        "email": "",
+        "password": ""
+      },
+      "id": 2
+    }
+  ]
+}
